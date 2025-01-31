@@ -1,4 +1,4 @@
-# Newton Method with Finite differences (from scatch)
+# Newton Method with Finite differences (from scratch)
 ## Project of "Numerical methods for Large Scale Problems" Course 2022/2023
 ### Pt1: low dimensionality case
 <br>
